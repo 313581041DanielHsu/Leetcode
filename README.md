@@ -10,27 +10,27 @@
  ┣ 📂 week01  
  ┃ ┣ 📂 problemXXX  
  ┃ ┃ ┣ 📜 problemXXX.cpp  
- ┃ ┃ ┣ 📜 problemXXX.cpp  
+ ┃ ┃ ┣ 📸 problemXXX_accepted.png   
  ┃ ┣ 📂 problemYYY  
  ┃ ┃ ┣ 📜 problemYYY.cpp  
- ┃ ┃ ┣ 📜 problemYYY.cpp  
+ ┃ ┃ ┣ 📸 problemYYY_accepted.png  
  ┃ ┣ 📂 problemZZZ  
  ┃ ┃ ┣ 📜 problemZZZ.cpp  
- ┃ ┃ ┗ 📜 problemZZZ.cpp  
+ ┃ ┃ ┗ 📸 problemZZZ_accepted.png  
  ┣ 📂 week02  
  ┃ ┣ 📂 problemXXX  
  ┃ ┃ ┣ 📜 problemXXX.cpp  
- ┃ ┃ ┣ 📜 problemXXX.cpp  
+ ┃ ┃ ┣ 📸 problemXXX_accepted.png   
  ┃ ┣ 📂 problemYYY  
  ┃ ┃ ┣ 📜 problemYYY.cpp  
- ┃ ┃ ┣ 📜 problemYYY.cpp  
+ ┃ ┃ ┣ 📸 problemYYY_accepted.png  
  ┃ ┣ 📂 problemZZZ  
  ┃ ┃ ┣ 📜 problemZZZ.cpp  
- ┃ ┃ ┗ 📜 problemZZZ.cpp  
+ ┃ ┃ ┗ 📸 problemZZZ_accepted.png  
  ┣ 📂 extra_practice  
  ┃ ┣ 📂 problemXXX  
  ┃ ┃ ┣ 📜 problemXXX.cpp  
- ┃ ┃ ┗ 📜 problemXXX.cpp  
+ ┃ ┃ ┗ 📸 problemXXX_accepted.png  
 ┗ ...  
 \`\`\`
 
