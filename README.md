@@ -8,22 +8,29 @@
 \`\`\`
 📦 Algorithm-Assignments  
  ┣ 📂 week01  
- ┃ ┣ 📜 problemXXX.cpp  
- ┃ ┣ 📜 problemXXX.cpp  
- ┃ ┣ 📜 problemXXX.cpp  
- ┃ ┣ 📜 problemXXX_accepted.png  
- ┃ ┣ 📜 problemXXX_accepted.png  
- ┃ ┗ 📜 problemXXX_accepted.png  
+ ┃ ┣ 📂 problemXXX  
+ ┃ ┃ ┣ 📜 problemXXX.cpp  
+ ┃ ┃ ┣ 📜 problemXXX.cpp  
+ ┃ ┣ 📂 problemYYY  
+ ┃ ┃ ┣ 📜 problemYYY.cpp  
+ ┃ ┃ ┣ 📜 problemYYY.cpp  
+ ┃ ┣ 📂 problemZZZ  
+ ┃ ┃ ┣ 📜 problemZZZ.cpp  
+ ┃ ┃ ┗ 📜 problemZZZ.cpp  
  ┣ 📂 week02  
- ┃ ┣ 📜 problemXXX.cpp  
- ┃ ┣ 📜 problemXXX.cpp  
- ┃ ┣ 📜 problemXXX.cpp  
- ┃ ┣ 📜 problemXXX_accepted.png  
- ┃ ┣ 📜 problemXXX_accepted.png  
- ┃ ┗ 📜 problemXXX_accepted.png  
+ ┃ ┣ 📂 problemXXX  
+ ┃ ┃ ┣ 📜 problemXXX.cpp  
+ ┃ ┃ ┣ 📜 problemXXX.cpp  
+ ┃ ┣ 📂 problemYYY  
+ ┃ ┃ ┣ 📜 problemYYY.cpp  
+ ┃ ┃ ┣ 📜 problemYYY.cpp  
+ ┃ ┣ 📂 problemZZZ  
+ ┃ ┃ ┣ 📜 problemZZZ.cpp  
+ ┃ ┃ ┗ 📜 problemZZZ.cpp  
  ┣ 📂 extra_practice  
- ┃ ┣ 📜 problemXXX.cpp  
- ┃ ┗ 📜 problemXXX_accepted.png  
+ ┃ ┣ 📂 problemXXX  
+ ┃ ┃ ┣ 📜 problemXXX.cpp  
+ ┃ ┃ ┗ 📜 problemXXX.cpp  
 ┗ ...  
 \`\`\`
 
