@@ -46,9 +46,11 @@
 
 
 ## 📌 相關資訊
-- **授課學校**：國立陽明交通大學 (NYCU)  
+- **授課學校**：國立陽明交通大學 (NYCU)
+- **授課教授**：葉國輝 教授
 - **系所**：智能系統研究所 (Institute of Artificial Intelligence)  
-- **課程**：演算法 (Algorithm)  
+- **課程**：演算法 (Algorithm)
+- **授課學期**：113下學期    
 - **作業內容**：每週 3 題 LeetCode 練習  
 - **刷題額外紀錄**：`extra_practice` 資料夾
 
